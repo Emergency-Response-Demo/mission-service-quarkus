@@ -20,7 +20,7 @@
     <commons-lang.version>3.9</commons-lang.version>
     <commons-text.version>1.8</commons-text.version>
     <mapbox.version>4.5.0</mapbox.version>
-    <wiremock.version>2.26.3</wiremock.version>
+    <wiremock.version>2.35.1</wiremock.version>
     <smallrye.version>2.5.0</smallrye.version>
     <json-unit.version>2.18.0</json-unit.version>
   </properties>
